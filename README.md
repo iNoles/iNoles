@@ -7,4 +7,4 @@
 - 📈 GitHub Stats
 
 [![iNoles's github stats](https://github-readme-stats.vercel.app/api?username=inoles)](https://github.com/inoles)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inoles)](https://github.com/inoles)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inoles&line_height=40)](https://github.com/inoles)
