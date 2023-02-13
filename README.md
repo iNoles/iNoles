@@ -1,7 +1,7 @@
 ### Hi there, I'm Jonathan - aka iNoles 👋 
 
 - 🔭 I’m currently working on ...
-  - [![SpaceXLaunch](https://github.com/iNoles/SpaceXLaunch)]
+  - [SpaceXLaunch](https://github.com/iNoles/SpaceXLaunch)
   - KnightsFootball
 - 🌱 I’m currently learning everything 🤣
 
