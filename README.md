@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on ...
   - [SpaceXLaunch](https://github.com/iNoles/SpaceXLaunch)
   - KnightsFootball
+       - [Android](https://github.com/iNoles/knightsfootballandroid)
+       - [iOS](https://github.com/iNoles/knightfootball-swiftui)
 - 🌱 I’m currently learning everything 🤣
 
 ### 🤝 Connect with me:
