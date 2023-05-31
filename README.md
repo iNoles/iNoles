@@ -19,4 +19,4 @@
 ### 📈 GitHub Stats
 
 ![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=inoles&theme=dracula&show_icons=true&count_private=true&line_height=40)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inoles)](https://github.com/inoles)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inoles&size_weight=0.5&count_weight=0.5)
