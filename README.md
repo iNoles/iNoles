@@ -18,5 +18,5 @@
 
 ### 📈 GitHub Stats
 
-[![iNoles's github stats](https://github-readme-stats.vercel.app/api?username=inoles&line_height=40)](https://github.com/inoles)
+![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=inoles&theme=dracula&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inoles)](https://github.com/inoles)
