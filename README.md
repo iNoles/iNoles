@@ -1,6 +1,8 @@
 ### Hi there, I'm Jonathan - aka iNoles 👋 
 
 - 🔭 I’m currently working on ...
+  - News
+       - [Compose Multiplatform](https://github.com/iNoles/News) 
   - KnightsFootball
        - [Android](https://github.com/iNoles/knightsfootballandroid)
        - [iOS](https://github.com/iNoles/knightfootball-swiftui)
