@@ -1,10 +1,11 @@
-### Hi there, I'm Jonathan - aka iNoles 👋 
+### Hi there, I'm Jonathan Steele👋 
 
-- 🔭 I’m currently working on ...
-  - News
-       - [Compose Multiplatform](https://github.com/iNoles/News) 
-  - [TaskList](https://github.com/iNoles/TaskList)
-- 🌱 I’m currently learning everything 🤣
+I'm a software engineer based in Melbourne, Florida and working for eLifeguard.com. 
+
+## Some more background
+
+- Working professionally as hands-on software engineer for 8+ years (and as hobby for about 7 years before that!).  
+- Developing for Android since 2009 (using Kotlin for last 6 years).
 
 ### 🤝 Connect with me:
 
