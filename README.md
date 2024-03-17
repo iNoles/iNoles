@@ -5,7 +5,7 @@ I'm a software engineer based in Melbourne, Florida and working for eLifeguard.c
 ## Some more background
 
 - Working professionally as hands-on software engineer for 8+ years (and as hobby for about 7 years before that!).  
-- Developing for Android and iOS since 2009 (using Kotlin for last 6 years).
+- Developing for Android since 2009 (using Kotlin for last 6 years).
 
 ## 🤝 Connect with me:
 
