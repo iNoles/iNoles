@@ -10,7 +10,7 @@ I'm a software engineer based in Melbourne, Florida and working for eLifeguard.c
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/jonathan-steele/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Jonathan Steele | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/jonathansoftwaredeveloper"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Jonathan Steele | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/xfsunoles/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Jonathan Steele | Instagram" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
