@@ -11,8 +11,8 @@ I'm a **Passionate and Dedicated Software Engineer** based in Melbourne, Florida
 
 ## 🤝 Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg)](https://www.linkedin.com/in/jonathansoftwaredeveloper)  
-[![Instagram](https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg)](https://www.instagram.com/xfsunoles/)  
+<a href="https://www.linkedin.com/in/jonathansoftwaredeveloper"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Jonathan Steele | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/xfsunoles/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Jonathan Steele | Instagram" width="21px"/></a>  
 
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
