@@ -7,6 +7,7 @@ I'm a Passionate and Dedicated Software Engineer based in Melbourne, Florida, an
 - Working professionally as a hands-on software engineer for 8+ years (and as a hobby for about 7 years before that!).  
 - Developing for Android since 2009 (using Kotlin for the last 6 years).
 - Developing for iOS since 2009 (using Swift for the last 6 years).
+- Published five Android and iOS apps for the eLifeguard company.
 
 ## 🤝 Connect with me:
 
