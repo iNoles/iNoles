@@ -8,8 +8,6 @@ I'm a **Passionate and Dedicated Software Engineer** based in Melbourne, Florida
 - Developing for Android since 2009 (using **Kotlin** for the last 6 years)  
 - Developing for iOS since 2009 (using **Swift** for the last 6 years)  
 - Published five Android and iOS apps for the eLifeguard company
-- [Lifeguard Times Android App](https://play.google.com/store/apps/details?id=com.elifeguard.lifeguardtimes&hl=en_US&pli=1)
-- [Lifeguard Times iOS App](https://apps.apple.com/us/app/lifeguard-times/id1130306650)
 
 ## 🤝 Connect with me:
 
