@@ -7,7 +7,7 @@ I'm a **Passionate and Dedicated Software Engineer** based in Melbourne, Florida
 - Working professionally as a hands-on software engineer for 8+ years (and as a hobby for about 7 years before that!)  
 - Developing for Android since 2009 (using **Kotlin** for the last 6 years)  
 - Developing for iOS since 2009 (using **Swift** for the last 6 years)  
-- Published five Android for the eLifeguard company
+- Published five Android apps for the eLifeguard company
 - [Lifeguard Times Android App](https://play.google.com/store/apps/details?id=com.elifeguard.lifeguardtimes&hl=en_US&pli=1)
 
 ## 🤝 Connect with me:
