@@ -7,7 +7,8 @@ I'm **Software Engineer** based in Melbourne, Florida, currently working at eLif
 - Working professionally as a hands-on software engineer for 8+ years (and as a hobby for about 7 years before that!)
 - Developing for Android since 2009 (using **Kotlin** for the last 6 years)
 - Developing for iOS since 2009 (using **Swift** for the last 6 years)
-- Experienced in building cross-platform mobile apps using .NET MAUI (using **C#** for the last 4 years) and Flutter (using **Dart** for the last 4 years)
+- Developing for .NET MAUI (using **C#** for the last 4 years)
+- Developing for Flutter (using **Dart** for the last 4 years)
 - Published five Android and iOS apps for the eLifeguard company
 - [Lifeguard Times Android App](https://play.google.com/store/apps/details?id=com.elifeguard.lifeguardtimes&hl=en_US&pli=1)
 - [Lifeguard Times iOS App](https://apps.apple.com/us/app/lifeguard-times/id1130306650)
