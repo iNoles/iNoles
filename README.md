@@ -1,6 +1,6 @@
 # Hi there, I'm Jonathan Steele 👋
 
-I'm **Senior Software Engineer** based in Melbourne, Florida, currently working at eLifeguard.com.
+I'm **Senior Software Engineer** based in Melbourne, Florida, currently working at eLifeguard, Inc.
 
 ## Some more background
 
