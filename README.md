@@ -23,3 +23,6 @@ I'm **Senior Software Engineer** based in Melbourne, Florida, currently working 
 
 ![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=inoles&theme=dracula&show_icons=true&count_private=true&line_height=40)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inoles&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 GitHub Trophies
+![Jonathan's github trophy](https://github-profile-trophy.vercel.app/?username=iNoles&theme=default&no-frame=false&no-bg=false&margin-w=4)
