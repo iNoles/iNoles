@@ -1,23 +1,36 @@
 # Hi there, I'm Jonathan Steele 👋
 
-I'm **Senior Mobile Engineer** based in Melbourne, Florida, currently working at eLifeguard, Inc.
+🎯 **Senior Mobile Engineer** | Building scalable, cross-platform apps with .NET MAUI, Kotlin, and Swift  
+📍 Based in Melbourne, Florida | 💼 Currently at **eLifeguard, Inc.**
 
-## Some more background
+## 👨‍💻 About Me
+With over 8 years of professional experience (and 7 more as a passionate hobbyist), I specialize in designing, building, and scaling robust, high-performance mobile applications across Android, iOS, and cross-platform technologies. I take pride in delivering clean, maintainable, and production-ready code that drives real business value.
 
-- Working professionally as a hands-on software engineer for 8+ years (and as a hobby for about 7 years before that!)
-- Developing for Android since 2009 (using **Kotlin** for the last 6 years)
-- Developing for iOS since 2009 (using **Swift** for the last 6 years)
-- Developing cross-platform apps using .NET MAUI (**C#**, 5 years) and Flutter (**Dart**, 4 years)
-- Published five Android and iOS apps for the eLifeguard company
-- [Lifeguard Times Android App](https://play.google.com/store/apps/details?id=com.elifeguard.lifeguardtimes&hl=en_US&pli=1)
-- [Lifeguard Times iOS App](https://apps.apple.com/us/app/lifeguard-times/id1130306650)
+## 🧰 Tech Stack & Specialties
+- **Mobile:** Android (**Java**, **Kotlin**), iOS (**Objective-C**, **Swift**, **SwiftUI**)  
+- **Cross-Platform:** **.NET MAUI** (**C#**), **Flutter** (**Dart**)  
+- **Frontend**: XAML, SwiftUI
+- **Architecture:** **MVVM**, **Clean Architecture**, **Multimodule Design**
+- **Performance**: Async rendering, SQLite caching, RESTful APIs
+- **Tooling**: Git, Firebase, GitHub Actions, CI/CD, Visual Studio Code, Xcode, Android Studio
+
+## 🚀 Career Highlights
+- 📱 **8+ years** of mobile development using **native** and **cross-platform** frameworks  
+- ⚙️ **Published 5+ production apps** across Android and iOS for enterprise use  
+- 🔧 **Modernized legacy codebases** to improve **scalability**, **offline reliability**, and **maintainability**  
+- ⚡ Delivered performance optimizations that enhanced **UX** and **app responsiveness**
+
+## Notable Apps
+- [Lifeguard Times – Android](https://play.google.com/store/apps/details?id=com.elifeguard.lifeguardtimes&hl=en_US&pli=1)
+- [Lifeguard Times – iOS](https://apps.apple.com/us/app/lifeguard-times/id1130306650)
 
 ## 🤝 Connect with me:
 
+💬 I'm always open to connecting with fellow engineers, hiring managers, and mobile tech enthusiasts.  
+If you're building something impactful, or looking for someone who can, let's talk!
+
 <a href="https://www.linkedin.com/in/jonathansoftwaredeveloper"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Jonathan Steele | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/xfsunoles/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Jonathan Steele | Instagram" width="21px"/></a>  
-
-- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## 📈 GitHub Stats
 
