@@ -10,7 +10,7 @@ With over 8 years of professional experience (and 7 more as a passionate hobbyis
 - **Mobile:** Android (**Java**, **Kotlin**, **Jetpack Compose**), iOS (**Objective-C**, **Swift**, **SwiftUI**)  
 - **Cross-Platform:** **.NET MAUI** (**C#**), **Flutter** (**Dart**)  
 - **Frontend**: XAML, SwiftUI, Jetpack Compose
-- **Architecture:** **MVVM**, **Clean Architecture**, **Multimodule Design**
+- **Architecture:** MVVM, Clean Architecture, Multimodule Design
 - **Performance**: Async rendering, SQLite caching, RESTful APIs
 - **Tooling**: Git, Firebase, GitHub Actions, CI/CD, Visual Studio Code, Xcode, Android Studio
 
