@@ -7,7 +7,8 @@
 With over 8 years of professional experience (and 7 more as a passionate hobbyist), I specialize in designing, building, and scaling robust, high-performance mobile applications across Android, iOS, and cross-platform technologies. I take pride in delivering clean, maintainable, and production-ready code that drives real business value.
 
 ## 🧰 Tech Stack & Specialties
-- **Mobile:** Android (**Java**, **Kotlin**, **Jetpack Compose**), iOS (**Objective-C**, **Swift**, **SwiftUI**)  
+- **Mobile:** Android (**Java**, **Kotlin**, **Jetpack Compose**), iOS (**Objective-C**, **Swift**, **SwiftUI**)
+- **Web:** TypeScript, JavaScript, Astro, Vue
 - **Cross-Platform:** **.NET MAUI** (**C#**), **Flutter** (**Dart**)  
 - **Frontend**: XAML, SwiftUI, Jetpack Compose
 - **Architecture:** MVVM, Clean Architecture, Multimodule Design
