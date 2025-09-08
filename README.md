@@ -1,6 +1,6 @@
 # Hi there, I'm Jonathan Steele 👋
 
-🎯 **Software Engineer** | Building scalable native, full-stack, cross-platform apps with .NET MAUI, Flutter, Kotlin, Swift, and Vue  
+🎯 **Software Engineer** | Building scalable native, full-stack, cross-platform apps with .NET, Flutter, Kotlin, Swift, and Vue  
 📍 Based in Melbourne, Florida | 💼 Currently at **eLifeguard, Inc.**
 
 ## 👨‍💻 About Me
