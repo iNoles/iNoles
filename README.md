@@ -8,7 +8,7 @@ With over 8 years of professional experience (and 7 more as a passionate hobbyis
 
 ## 🧰 Tech Stack & Specialties
 - **Mobile:** Android (**Java**, **Kotlin**, **Jetpack Compose**), iOS (**Objective-C**, **Swift**, **SwiftUI**)
-- **Web:** TypeScript, JavaScript, Astro, Vue, ASP.NET
+- **Web:** TypeScript, JavaScript, Astro, Vue, ASP.NET Core
 - **Cross-Platform:** **.NET MAUI** (**C#**), **Flutter** (**Dart**)  
 - **Frontend**: XAML, SwiftUI, Jetpack Compose
 - **Architecture:** MVVM, Clean Architecture, Multimodule Design
