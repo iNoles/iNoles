@@ -1,7 +1,7 @@
 # Hi there, I'm Jonathan Steele 👋
 
 🎯 **Software Engineer** | Building scalable native, full-stack, cross-platform apps with .NET, Flutter, Kotlin, Swift, and Vue  
-📍 Based in Melbourne, Florida | 💼 Currently at **Fencl Web Design**
+📍 Based in Melbourne, Florida
 
 ## 👨‍💻 About Me
 With over 8 years of professional experience (and 7 more as a passionate hobbyist), I specialize in designing, building, and scaling robust, high-performance mobile applications across Android, iOS, and cross-platform technologies. I take pride in delivering clean, maintainable, and production-ready code that drives real business value.
