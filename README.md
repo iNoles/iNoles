@@ -90,5 +90,5 @@ Iâ€™m a full stack engineer who enjoys turning ideas into reliable, productionâ€
 ---
 
 ## Connect
-- **LinkedIn:** https://linkedin.com/in/inoles  
+- **LinkedIn:** https://www.linkedin.com/in/jonathan-steele-dev/
 - **GitHub:** https://github.com/iNoles
