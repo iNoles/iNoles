@@ -1,42 +1,94 @@
-# Hi there, I'm Jonathan Steele 👋
+# Jonathan Steele
 
-🎯 **Software Engineer** | Building scalable native, full-stack, cross-platform apps with .NET, Flutter, Kotlin, Swift, and Vue  
-📍 Based in Melbourne, Florida | 💼 Currently at **eLifeguard, Inc.**
+Full Stack Software Engineer | Web, Mobile, and .NET Core
 
-## 👨‍💻 About Me
-With over 8 years of professional experience (and 7 more as a passionate hobbyist), I specialize in designing, building, and scaling robust, high-performance mobile applications across Android, iOS, and cross-platform technologies. I take pride in delivering clean, maintainable, and production-ready code that drives real business value.
+---
 
-## 🧰 Tech Stack & Specialties
-- **Mobile:** Android (**Java**, **Kotlin**, **Jetpack Compose**), iOS (**Objective-C**, **Swift**, **SwiftUI**)
-- **Web:** TypeScript, JavaScript, Astro, Vue, ASP.NET Core
-- **Cross-Platform:** **.NET MAUI** (**C#**), **Flutter** (**Dart**)  
-- **Frontend**: XAML, SwiftUI, Jetpack Compose
-- **Architecture:** MVVM, Clean Architecture, Multimodule Design
-- **Performance**: Async rendering, SQLite caching, RESTful APIs
-- **Tooling**: Git, Firebase, GitHub Actions, CI/CD, Visual Studio Code, Xcode, Android Studio
+## About Me
 
-## 🚀 Career Highlights
-- 📱 **8+ years** of mobile development using **native** and **cross-platform** frameworks  
-- ⚙️ **Published 5+ production apps** across Android and iOS for enterprise use  
-- 🔧 **Modernized legacy codebases** to improve **scalability**, **offline reliability**, and **maintainability**  
-- ⚡ Delivered performance optimizations that enhanced **UX** and **app responsiveness**
+I’m a full stack engineer who enjoys turning ideas into reliable, production‑ready software. I like understanding how systems fit together, designing APIs that feel clean to use, and building interfaces that stay simple even as the underlying logic grows. I care about clarity, maintainability, and creating software that feels intentional from the backend architecture to the final UI details.
 
-## Notable Apps
-- [Lifeguard Times – Android](https://play.google.com/store/apps/details?id=com.elifeguard.lifeguardtimes&hl=en_US&pli=1)
-- [Lifeguard Times – iOS](https://apps.apple.com/us/app/lifeguard-times/id1130306650)
+---
 
-## 🤝 Connect with me:
+## Core Strengths
+- **Frontend:** Angular and Vue with component‑driven architecture and clean UI patterns  
+- **Backend:** C#, .NET Core, Python, and PHP for building maintainable APIs and services  
+- **Mobile:** Kotlin with Jetpack Compose and Swift with SwiftUI for modern native app development  
+- **Architecture:** clean architecture, modular design, dependency injection, REST API design  
+- **Data:** SQL, EF Core, LINQ, and offline‑first storage using Room, SQLite, and Core Data  
+- **DevOps:** GitHub Actions, Docker, Podman, CI/CD pipelines for automated builds and deployments  
+- **Performance & Maintainability:** efficient state management, caching strategies, scalable and readable code  
 
-💬 I'm always open to connecting with fellow engineers, hiring managers, and mobile tech enthusiasts.  
-If you're building something impactful, or looking for someone who can, let's talk!
+---
 
-<a href="https://www.linkedin.com/in/jonathansoftwaredeveloper"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Jonathan Steele | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/xfsunoles/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Jonathan Steele | Instagram" width="21px"/></a>  
+## Featured Projects
+- **SpaceX Launch Blazor App**: full stack Blazor Server application that displays real time upcoming SpaceX launches using the Launch Library 2 API, built with ASP.NET Core and TailwindCSS  
+- **Quote of the Day (Angular)**: standalone components, signals, clean UI, no repeat logic  
+- **CareerFlow (Android)**: AI powered career advisor built with Kotlin, Jetpack Compose, and Google Gemini 1.5 Flash, providing real time personalized career guidance based on user interests and skills  
+- **CryptoPulse (iOS)**: real time cryptocurrency tracker built with SwiftUI, SwiftData, Charts, and the CoinGecko API, featuring watchlists, sparkline charts, offline support, and a clean responsive interface  
 
-## 📈 GitHub Stats
+---
 
-![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=inoles&theme=dracula&show_icons=true&count_private=true&line_height=40)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inoles&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+## Tech and Tools
+![Angular](https://img.shields.io/badge/Framework-Angular-DD0031?logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Framework-Vue.js-42B883?logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/Backend-.NET_Core-512BD4?logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Backend-Python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/Backend-PHP-777BB4?logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/Database-SQL-336791?logo=postgresql&logoColor=white)
+![Android](https://img.shields.io/badge/Mobile-Android-3DDC84?logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/Mobile-iOS-000000?logo=apple&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Language-Swift-F05138?logo=swift&logoColor=white)
+![API](https://img.shields.io/badge/Focus-API_Design-0A66C2?logo=swagger&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-## 🏆 GitHub Trophies
-![Jonathan's github trophy](https://github-profile-trophy.vercel.app/?username=iNoles&theme=default&no-frame=false&no-bg=false&margin-w=4)
+---
+
+## What I Build
+- Web apps using Angular, Vue, TypeScript, and clean component architecture  
+- Backend services with .NET Core, EF Core, Python, and container ready APIs  
+- Mobile apps for Android and iOS using Kotlin, Swift, and offline first patterns  
+- Automation and tooling to streamline workflows  
+- Minimal UI and UX with intentional interactions  
+
+---
+
+## Mobile Experience
+- Built and maintained Android and iOS apps with modern Kotlin, Jetpack Compose, Swift, and SwiftUI  
+- Integrated OAuth, REST APIs, analytics, and push notifications with FCM and APNs  
+- Implemented offline storage with Room, SQLite, and Core Data  
+- Delivered stable and maintainable architectures for production apps  
+
+---
+
+## .NET Core Experience
+- Designed and built RESTful APIs with ASP.NET Core  
+- Implemented EF Core, LINQ, migrations, and clean data layers  
+- Containerized services using Docker and Podman
+- Built CI and CD pipelines with GitHub Actions  
+- Experience with microservices, background workers, and async pipelines  
+
+---
+
+## GitHub Stats
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=inoles&line_height=40" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs?username=inoles&layout=compact&size_weight=0.5&count_weight=0.5" />
+</div>
+
+---
+
+## Currently Improving
+- Angular standalone architecture  
+- Vue 3 composition patterns  
+- Clean .NET Core service design  
+- Workflow automation and tooling  
+
+---
+
+## Connect
+- **LinkedIn:** https://linkedin.com/in/inoles  
+- **GitHub:** https://github.com/iNoles
