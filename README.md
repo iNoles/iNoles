@@ -69,7 +69,6 @@ Iâ€™m a full stack engineer who enjoys turning ideas into reliable, productionâ€
 - Implemented EF Core, LINQ, migrations, and clean data layers  
 - Containerized services using Docker and Podman
 - Built CI and CD pipelines with GitHub Actions  
-- Experience with microservices, background workers, and async pipelines  
 
 ---
 
