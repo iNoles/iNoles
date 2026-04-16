@@ -25,7 +25,8 @@ Iâ€™m a full stack engineer who enjoys turning ideas into reliable, productionâ€
 - **SpaceX Launch Blazor App**: full stack Blazor Server application that displays real time upcoming SpaceX launches using the Launch Library 2 API, built with ASP.NET Core and TailwindCSS  
 - **Quote of the Day (Angular)**: standalone components, signals, clean UI, no repeat logic  
 - **CareerFlow (Android)**: AI powered career advisor built with Kotlin, Jetpack Compose, and Google Gemini 1.5 Flash, providing real time personalized career guidance based on user interests and skills  
-- **CryptoPulse (iOS)**: real time cryptocurrency tracker built with SwiftUI, SwiftData, Charts, and the CoinGecko API, featuring watchlists, sparkline charts, offline support, and a clean responsive interface  
+- **CryptoPulse (iOS)**: real time cryptocurrency tracker built with SwiftUI, SwiftData, Charts, and the CoinGecko API, featuring watchlists, sparkline charts, offline support, and a clean responsive interface
+- **GoTesty (Web + Desktop)**: lightweight API testing tool built with Go, Wails, React, and Tailwind, offering a fast, minimal interface for sending requests and inspecting responses
 
 ---
 
