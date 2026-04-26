@@ -12,7 +12,7 @@ I’m a full stack engineer who enjoys turning ideas into reliable, production�
 
 ## Core Strengths
 - **Frontend:** Angular and Vue with component‑driven architecture and clean UI patterns  
-- **Backend:** C#, .NET Core, Python, and PHP for building maintainable APIs and services  
+- **Backend:** C, C++, C#, .NET Core, Python, PHP for building maintainable APIs and services
 - **Mobile:** Kotlin with Jetpack Compose and Swift with SwiftUI for modern native app development  
 - **Architecture:** clean architecture, modular design, dependency injection, REST API design  
 - **Data:** SQL, EF Core, LINQ, and offline‑first storage using Room, SQLite, and Core Data  
@@ -27,13 +27,15 @@ I’m a full stack engineer who enjoys turning ideas into reliable, production�
 - **CareerFlow (Android)**: AI powered career advisor built with Kotlin, Jetpack Compose, and Google Gemini 1.5 Flash, providing real time personalized career guidance based on user interests and skills  
 - **CryptoPulse (iOS)**: real time cryptocurrency tracker built with SwiftUI, SwiftData, Charts, and the CoinGecko API, featuring watchlists, sparkline charts, offline support, and a clean responsive interface
 - **GoTesty (Web + Desktop)**: lightweight API testing tool built with Go, Wails, React, and Tailwind, offering a fast, minimal interface for sending requests and inspecting responses
-
+- **Mini Shell (C)** — POSIX‑style shell implemented in C with job control, piping, redirection, and signal handling
 ---
 
 ## Tech and Tools
 ![Angular](https://img.shields.io/badge/Framework-Angular-DD0031?logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Framework-Vue.js-42B883?logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/Language-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/Language-C++-00599C?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/Backend-.NET_Core-512BD4?logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Backend-Python-3776AB?logo=python&logoColor=white)
@@ -58,18 +60,26 @@ I’m a full stack engineer who enjoys turning ideas into reliable, production�
 ---
 
 ## Mobile Experience
-- Built and maintained Android and iOS apps with modern Kotlin, Jetpack Compose, Swift, and SwiftUI  
-- Integrated OAuth, REST APIs, analytics, and push notifications with FCM and APNs  
-- Implemented offline storage with Room, SQLite, and Core Data  
-- Delivered stable and maintainable architectures for production apps  
+- Built and maintained Android and iOS apps with modern Kotlin, Jetpack Compose, Swift, and SwiftUI
+- Integrated OAuth, REST APIs, analytics, and push notifications with FCM and APNs
+- Implemented offline storage with Room, SQLite, and Core Data
+- Delivered stable and maintainable architectures for production apps
 
 ---
 
 ## .NET Core Experience
-- Designed and built RESTful APIs with ASP.NET Core  
-- Implemented EF Core, LINQ, migrations, and clean data layers  
+- Designed and built RESTful APIs with ASP.NET Core
+- Implemented EF Core, LINQ, migrations, and clean data layers
 - Containerized services using Docker and Podman
-- Built CI and CD pipelines with GitHub Actions  
+- Built CI and CD pipelines with GitHub Actions
+
+---
+
+## Systems Programming (C/C++)
+- Built CLI tools and utilities using C and C++ with a focus on performance and reliability
+- Implemented POSIX‑style features including file I/O, process control, and signal handling
+- Developed data‑driven components using custom data structures and memory‑safe patterns
+- Created maintainable, testable modules for low‑level workflows and tooling
 
 ---
 
