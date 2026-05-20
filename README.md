@@ -51,7 +51,7 @@ Iâ€™m a full stack engineer who enjoys turning ideas into reliable, productionâ€
 ---
 
 ## What I Build
-- Web apps using Angular, Vue, TypeScript, and clean component architecture  
+- Web apps using Angular, React, Vue, TypeScript, and clean component architecture  
 - Backend services with .NET Core, EF Core, Python, and container ready APIs  
 - Mobile apps for Android and iOS using Kotlin, Swift, and offline first patterns  
 - Automation and tooling to streamline workflows  
