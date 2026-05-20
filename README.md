@@ -11,7 +11,7 @@ I’m a full stack engineer who enjoys turning ideas into reliable, production�
 ---
 
 ## Core Strengths
-- **Frontend:** Angular and Vue with component‑driven architecture and clean UI patterns  
+- **Frontend:** React, Angular and Vue with component‑driven architecture and clean UI patterns  
 - **Backend:** C, C++, C#, .NET Core, Python, PHP for building maintainable APIs and services
 - **Mobile:** Kotlin with Jetpack Compose and Swift with SwiftUI for modern native app development  
 - **Architecture:** clean architecture, modular design, dependency injection, REST API design  
